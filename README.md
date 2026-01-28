@@ -3,7 +3,7 @@ Aplikacja konsolowa C++ do bezstratnej kompresji i dekompresji plików tekstowyc
 Funkcje
 Kompresja: Analiza pliku, budowa drzewa Huffmana i zapis danych ze słownikiem.
 Dekompresja: Odtwarzanie tekstu na podstawie słownika i ciągu bitów.
-Własna Kolejka Priorytetowa: Autorska implementacja kopca binarnego (bubbleUp, bubbleDown).
+Kolejka Priorytetowa: implementacja kopca binarnego (bubbleUp, bubbleDown).
 Testowanie: Moduł weryfikujący poprawność działania struktur danych.
 Struktura Programu
 Node: Struktura węzła (znak, waga, wskaźniki left/right).
